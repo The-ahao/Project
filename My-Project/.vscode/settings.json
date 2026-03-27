@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "My-Project.sln"
+    "dotnet.defaultSolution": "My-Project.sln",
+    "Codegeex.RepoIndex": true
 }
